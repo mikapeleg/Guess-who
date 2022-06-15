@@ -59,7 +59,7 @@ void mouseClicked() {
         
       }
    //if position is not already in list, add to list
-    if (found == false) {
+    if (found == false) { 
       println("added");
       black_xs.append(black_x);
       black_ys.append(black_y);
